@@ -334,7 +334,7 @@ background-color: var(--bg3);
 .sns a:hover {color: var(--bb);}
 
 .bandeau{ background:var(--catimg); }
-.bandeau{ width:900px; height:160px; overflow:hidden; display:flex; justify-content:space-between; margin:0 auto; padding:10px; border-radius: 5px; }
+.bandeau{ width:980px; height:160px; overflow:hidden; display:flex; justify-content:space-between; margin:0 auto; padding:10px; border-radius: 5px; }
 .bandeau *{ box-sizing:border-box; }
 .bandeaug, .bandeaud {
     width: 260px;
